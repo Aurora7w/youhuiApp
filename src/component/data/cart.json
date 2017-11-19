@@ -1,0 +1,62 @@
+{
+  "status": 0,
+  "message": "success",
+  "result": {
+      "totalHoney":59,
+      "list":[
+      {
+      "name": "护肤品",
+      "price": 19,
+      "count": 1,
+      "amount": 19,
+      "imgPic": "static/img/test.jpg",
+      "gifts": [
+        {
+          "partId":"10001",
+          "partName":"爽肤水"
+        },
+        {
+          "partId":"10002",
+          "partName":"面膜"
+        }
+      ]
+      },
+      {
+      "name": "爽肤水",
+      "price": 20,
+      "count": 1,
+      "amount": 20,
+      "imgPic": "static/img/test1.jpg",
+        "gifts": [
+          {
+            "partId":"10001",
+            "partName":"口红"
+          },
+          {
+            "partId":"10002",
+            "partName":"面膜"
+          }
+        ]
+      },
+        {
+          "name": "项链",
+
+          "price": 20,
+          "count": 1,
+          "amount": 20,
+          "imgPic": "static/img/test1.jpg",
+          "gifts": [
+            {
+              "partId":"10001",
+              "partName":"手链"
+            },
+            {
+              "partId":"10002",
+              "partName":"耳环"
+            }
+          ]
+        }
+      ]
+  }
+
+}

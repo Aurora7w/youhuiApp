@@ -1,0 +1,49 @@
+{
+  "status": 1,
+  "result": {
+    "totalMoney": 109,
+    "list": [{
+      "productId": "600100002115",
+      "productName": "水密码",
+      "productPrice": 109,
+      "productQuantity": 1,
+      "productImage": "./src/assets/image/goods-1.jpg",
+      "parts": [{
+        "partsId": "10001",
+        "partsName": "面膜",
+        "imgSrc": "./src/assets/image/part-1.jpg"
+      }, {
+        "partsId": "10002",
+        "partsName": "爽肤水",
+        "imgSrc": "./src/assets/image/part-1.jpg"
+      }]
+    }, {
+      "productId": "600100002120",
+      "productName": "御泥坊美白祛斑化妆品套装护肤品全套",
+      "productPrice": 117.54,
+      "productQuantity": 5,
+      "productImage": "./src/assets/image/goods-2.jpg",
+      "parts": [{
+        "partsId": "20001",
+        "partsName": "口红",
+        "imgSrc": "./src/assets/image/part-2.jpg"
+      }]
+    }, {
+      "productId": "600100002117",
+      "productName": "百雀羚草本精粹四件套",
+      "productPrice": 25,
+      "productQuantity": 2,
+      "productImage": "./src/assets/image/goods-1.jpg",
+      "parts": [{
+        "partsId": "10001",
+        "partsName": "护肤品-1",
+        "imgSrc": "./src/assets/image/part-1.jpg"
+      }, {
+        "partsId": "10002",
+        "partsName": "腮红-2",
+        "imgSrc": "./src/assets/image/part-1.jpg"
+      }]
+    }]
+  },
+  "message": ""
+}
